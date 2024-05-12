@@ -17,6 +17,11 @@ const Footer=()=>{
                 <Link to='https://www.linkedin.com/company/algerie-telecom' className="text-secondary text-white hover:text-black active:text-black"> <i class="fa-brands fa-linkedin"></i></Link>
             </div>
             </div>
+             <h1 style={{color:"white"}}>Designed by : <br></br>
+                Bouabdallah Najib Allah</h1>
+            <h1 style={{color:"white"}}> Bouakaz Rafik</h1>
+            <h3 style={{color:"white"}}>this is our project for the web app devoloping module in univ-batna2 2nd year computer sciences</h3>
+            <h3 style={{color:"white"}}>this is a suggested design for the Algeria Telecom company i hope that you like it </h3>
         </div>
     )
 }
